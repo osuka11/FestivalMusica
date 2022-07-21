@@ -1,0 +1,16 @@
+#SAAS 
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+node_modules/
+src/
+
+#Dependences
+*.json
+
+#Garbage
+._.DS_Store
+._img
+._video
+.DS_Store
